@@ -1,4 +1,7 @@
-"""Test using the SLSoap module"""
+"""
+Test using the SLSoap module.
+The below code fetches all of the tickts for a piece of hardware
+"""
 
 import slsoap
 
